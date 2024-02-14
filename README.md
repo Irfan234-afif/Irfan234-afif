@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Irfan</h1>
 
-<h5 align="center">A Computer Science student passionate about fusing creativity and technical insight to create captivating and highly functional digital solutions. With unwavering dedication, I bring my best to every project, committed to delivering top-tier technological experiences. The synergy of strong technical skills and a relentless drive for learning empowers me to make impactful contributions within collaborative development teams. Embracing change as a catalyst for excellence, I'm excited to actively participate in crafting innovative technological solutions.</h5>
+<h5 align="center">A Computer Science passionate about fusing creativity and technical insight to create captivating and highly functional digital solutions. With unwavering dedication, I bring my best to every project, committed to delivering top-tier technological experiences. The synergy of strong technical skills and a relentless drive for learning empowers me to make impactful contributions within collaborative development teams. Embracing change as a catalyst for excellence, I'm excited to actively participate in crafting innovative technological solutions.</h5>
 
 #
 <h3 align="center">Presentation language of my repo</h3>
