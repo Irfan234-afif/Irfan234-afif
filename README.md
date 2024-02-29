@@ -19,7 +19,7 @@
 
 ## Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/irfanafifi__)
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://instagram.com/irfanafifi__)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Irfan_afifi7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-afifi-b38b83247)
 
 #
